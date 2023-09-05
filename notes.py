@@ -6,6 +6,9 @@
 
 # str
 y = "I love Computer Science!"
+l = "Lillie is the best person in the entire world!!"
+print(y)
+print(l)
 
 # numbers
 mynum = 47
